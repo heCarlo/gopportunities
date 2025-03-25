@@ -1,0 +1,18 @@
+# Binaries
+
+*.exe
+*.dill
+*.so
+*dy.lib
+
+# Test Binary
+
+*.test
+
+# Coverege
+
+*.out
+
+Db folder
+
+db/
